@@ -42,7 +42,7 @@ Doctello is a healthcare tool for ease of patients and to enhance the their way 
 
 ## Azure App Service 📱:
 
-![Azure App Service](./readme_images/azure-service.png)
+![Azure App Service](./readme_images/azure-services.png)
 
 - I have used Azure App Service to deploy the chatbot.
 - The chatbot is deployed as a web app, allowing it to be integrated into the Doctello website.
