@@ -3,9 +3,7 @@
 Doctello is a website which is developed as part of **Future Ready Talent Internship**.
 Doctello is a healthcare tool for ease of patients and to enhance the their way of living.
 
-**Project Link:** https://medistoprender.onrender.com/home
-
-**Project Demo Link:** https://www.youtube.com/watch?v=3rT0mKtlDeQ
+**Project Link:** https://github.com/sahdev04/Doctello/tree/main/hospital
 
 ## Key Features
 
