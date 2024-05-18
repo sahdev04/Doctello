@@ -10,7 +10,10 @@ Doctello is a healthcare tool for ease of patients and to enhance the their way 
 - **Appointment System :** Doctello provide Appointment System using which patients can book the appointment with doctors with there own preferred time slot and day. Gone the time when we need to sit in long queues for our number to come, now you have MediStop to do it all.
 
 - **Health Bot for Analysis of Dibetes:** Using this boat patient can analyze their diabetic conditions whether on the basis of his/her bmi data . It is health bot for ease the life of patients.
+  
+- **Doctors for Appointment:** Using this patient can appoint the doctor by their choice and according to their need.
 
+-  **Client's Review:** Using this client or patient can rate the doctor. 
 ## Technologies Used
 
 - HTML
@@ -70,6 +73,10 @@ Doctello is a healthcare tool for ease of patients and to enhance the their way 
 ### Review Page
 
 ![image]![Alt text](./readme_images/review.png)
+
+### Our Doctors page
+
+![image]![Alt text](./readme_images/)
 
 ## Acknowledgements
 
