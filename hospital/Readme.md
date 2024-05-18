@@ -76,7 +76,7 @@ Doctello is a healthcare tool for ease of patients and to enhance the their way 
 
 ### Our Doctors page
 
-![image]![Alt text](./readme_images/)
+![image]![Alt text](./readme_images/doctors.png)
 
 ## Acknowledgements
 
