@@ -1,15 +1,16 @@
 # Doctello (Hospital Management System)
 
 Doctello is a website which is developed as part of **Future Ready Talent Internship**.
-Doctello is a healthcare tool for ease of patients and to enhance the their way of living.
+Doctello is a healthcare tool for ease of patients and to enhance their way of living.
 
 **Project Link:** https://github.com/sahdev04/Doctello/tree/main/hospital
+**Project Demo Link** https://www.youtube.com/watch?v=o6azeKYoccQ
 
 ## Key Features
 
-- **Appointment System :** Doctello provide Appointment System using which patients can book the appointment with doctors with there own preferred time slot and day. Gone the time when we need to sit in long queues for our number to come, now you have MediStop to do it all.
+- **Appointment System :** Doctello provide Appointment System using which patients can book the appointment with doctors with there own preferred time slot and day. Gone the time when we need to sit in long queues for our number to come, now you have Doctello to do it all.
 
-- **Health Bot for Analysis of Dibetes:** Using this boat patient can analyze their diabetic conditions whether on the basis of his/her bmi data . It is health bot for ease the life of patients.
+- **Health Bot for Analysis of Dibetes:** Using this bot patient can analyze their diabetic conditions whether on the basis of his/her bmi data . It is health bot for ease the life of patients.
   
 - **Doctors for Appointment:** Using this patient can appoint the doctor by their choice and according to their need.
 
