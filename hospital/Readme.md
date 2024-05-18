@@ -22,6 +22,7 @@ Doctello is a healthcare tool for ease of patients and to enhance their way of l
 - CSS
 - JavaScript
 - MySQL
+- PHP
 
 ## Azure Technologies Used
 
